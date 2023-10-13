@@ -10,14 +10,13 @@ El programa empleado es Python. Para desarrollar el proceso de han empleado Gith
 
 ## Instalación
 
-1. Crea un usuario en github e inicia sesión 
-2. Entra en el repositorio: https://github.com/Dherrero870/evaluable_excercise_1
-3. Ábrelo en Visual Studio Code
-4. Pincha la etiqueta en el cuadrante superior izquierdo donde pone evaluableex.py
-5. Presiona al mismo tiempo ctrl+ñ
-6. Al aparecer el programa escribe python .\evaluableex1.py al lado de PS C:\Users\Usuario\Documents\GitHub\evaluable_excercise_1>
-7. Presiona intro
-8. Introduce los datos de peso y planeta para obtener el resultado
+1. Clona el respositorio: https://github.com/Dherrero870/evaluable_excercise_1
+2. Ábrelo en Visual Studio Code
+3. Pincha la etiqueta en el cuadrante superior izquierdo donde pone evaluableex.py
+4. Presiona al mismo tiempo ctrl+ñ
+5. Al aparecer el programa escribe python .\evaluableex1.py al lado de PS C:\Users\Usuario\Documents\GitHub\evaluable_excercise_1>
+6. Presiona intro
+7. Introduce los datos de peso y planeta para obtener el resultado
 
 ## Cuerpos celestes disponibles
 
